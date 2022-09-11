@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+# Plant Bay
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 💡 Inspiration
 
-## Available Scripts
+Often times we have plants that we don't know how to take care of and they got neglected. Resulting in getting infected and dying. We want to help people to take care of their plants by providing them with the information about the disease and its cure. We also have a weather page that shows the weather of the user's location. This will help the user to know the weather of their location and take care of their plants accordingly.
 
-In the project directory, you can run:
+## 💻 What it does
 
-### `npm start`
+Our web app "Plant Bay" is built with features:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Upload a picture of the plant and get the disease.
+- Know the steps to cure the disease.
+- Get the weather of the user's location.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## ⚙️ How we built it
 
-### `npm test`
+- ML: Microsoft Cloud(Azure)
+- Frontend: React Js
+- Backend: Node Js
+- Styling: Tailwind CSS
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ☁ Best Use of Microsoft Cloud for Social Impact
 
-### `npm run build`
+I am using Microsoft Azure to train my ML model. I am using Azure Notebooks to train my model. I am using Azure Blob Storage to store my dataset. I am using Azure Cognitive Services to get the image from the user. Microsoft Azure made it very easy to train my model and deploy it.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## ☘ Best Sustainability Hack sponsored by Avanade
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The application is really helpful for famers and people who are interested in gardening. It can help them to identify the plant disease and also the best way to cure it. It will help people to save their plants and also save the environment.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🤝 Most Creative Use of GitHub
 
-### `npm run eject`
+We are using GitHub for the following reasons:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Setting up the project**: GitHub makes it easy to set up a project and get started.
+- **GitHub Project**: For planning and keeping track of our project and its progress using GitHub projects.
+- **Using PRs and Issues**: We are doing multiple PRs and building multiple issues to keep on track of the project.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🧠 Challenges we ran into
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<!-- Using azure first time -->
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Completing the project was a challenge because we had to implement the project by a deadline.
+- It was my first time using Azure and I had to learn a lot of new things.
+- It was bit difficult to train the model because of the limited dataset.
+- It was difficult to get the image from the user and then process it.
 
-## Learn More
+## 🏅 Accomplishments that we're proud of
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- We are proud of the fact that we were able to complete the project in the given time.
+- Using Azure for the first time and learning a lot of new things.
+- We are proud of the fact that we were able to train the model and deploy it.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📖 What we learned
 
-### Code Splitting
+- Using Azure Cognitive Services to get the image from the user and traing it.
+- Implementing the ML model using Azure Notebooks.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🚀 What's next for Plant Bay
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Building a mobile application.
+- Creating my own ML model.
+- Adding more features.
