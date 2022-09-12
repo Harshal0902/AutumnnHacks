@@ -8,7 +8,7 @@ Often times we have plants that we don't know how to take care of and they got n
 
 Our web app "Plant Bay" is built with features:
 
-- Upload a picture of the plant and get the disease.
+- Upload a picture of the plant and get the information about the  disease.
 - Know the steps to cure the disease.
 - Get the weather of the user's location.
 
