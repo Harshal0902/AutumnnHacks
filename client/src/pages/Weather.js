@@ -1,5 +1,6 @@
 import axios from 'axios'
 import { useState, useEffect } from 'react'
+import { BiSearchAlt } from "react-icons/bi";
 
 function Weather() {
 
@@ -73,7 +74,7 @@ function Weather() {
                     onChange={handleChange}
                     onKeyPress={handleKeypress}
                 />
-                <button className='bg-secondary text-white text-xl rounded-lg py-2 px-4' onClick={handleSubmit}>Search</button>
+                <button className='text-3xl text-white rounded-lg py-2 px-4' onClick={handleSubmit}><BiSearchAlt /></button>
             </div>
 
             <div className='grid place-items-center'>
