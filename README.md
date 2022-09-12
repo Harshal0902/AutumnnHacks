@@ -2,13 +2,13 @@
 
 ## 💡 Inspiration
 
-Often times we have plants that we don't know how to take care of and they got neglected. Resulting in getting infected and dying. We want to help people to take care of their plants by providing them with the information about the disease and its cure. We also have a weather page that shows the weather of the user's location. This will help the user to know the weather of their location and take care of their plants accordingly.
+Often we have plants that we don't know how to take care of and they got neglected. Resulting in getting infected and dying. We want to help people to take care of their plants by providing them with information about the disease and its cure. We also have a weather page that shows the weather of the user's location. This will help the user to know the weather of their location and take care of their plants accordingly.
 
 ## 💻 What it does
 
 Our web app "Plant Bay" is built with features:
 
-- Upload a picture of the plant and get the information about the  disease.
+- Upload a picture of the plant and get the information about the disease.
 - Know the steps to cure the disease.
 - Get the weather of the user's location.
 
@@ -25,7 +25,7 @@ I am using Microsoft Azure to train my ML model. I am using Azure Notebooks to t
 
 ## ☘ Best Sustainability Hack sponsored by Avanade
 
-The application is really helpful for famers and people who are interested in gardening. It can help them to identify the plant disease and also the best way to cure it. It will help people to save their plants and also save the environment.
+The application is really helpful for farmers and people who are interested in gardening. It can help them to identify plant diseases and also the best way to cure them. It will help people to save their plants and also save the environment.
 
 ## 🤝 Most Creative Use of GitHub
 
@@ -41,7 +41,7 @@ We are using GitHub for the following reasons:
 
 - Completing the project was a challenge because we had to implement the project by a deadline.
 - It was my first time using Azure and I had to learn a lot of new things.
-- It was bit difficult to train the model because of the limited dataset.
+- It was a bit difficult to train the model because of the limited dataset.
 - It was difficult to get the image from the user and then process it.
 
 ## 🏅 Accomplishments that we're proud of
@@ -52,11 +52,11 @@ We are using GitHub for the following reasons:
 
 ## 📖 What we learned
 
-- Using Azure Cognitive Services to get the image from the user and traing it.
+- Using Azure Cognitive Services to get the image from the user and train it.
 - Implementing the ML model using Azure Notebooks.
 
 ## 🚀 What's next for Plant Bay
 
 - Building a mobile application.
-- Creating my own ML model.
+- Creating my ML model.
 - Adding more features.
