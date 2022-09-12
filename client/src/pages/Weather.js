@@ -7,7 +7,7 @@ function Weather() {
     const [city, setCity] = useState('chennai');
     const [weatherData, setWeatherData] = useState(null);
 
-    const APIKey = '546b8e7bc2e42c8c92a2572386d39b0a';
+    const APIKey = '7a2d90ea5a4875d7edf4403a6eb6aa0a';
     const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${APIKey}`;
 
     const getData = () => {
